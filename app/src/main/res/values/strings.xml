@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">RecycleViewK</string>
+    <string-array name="name_fruits">
+        <item>Абрикос</item>
+        <item>Апельсин</item>
+        <item>Гранат</item>
+        <item>Груша</item>
+        <item>Инжир</item>
+        <item>Киви</item>
+        <item>Маракуйя</item>
+        <item>Папайя</item>
+        <item>Слива</item>
+        <item>Яблоко</item>
+    </string-array>
+</resources>
